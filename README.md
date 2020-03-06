@@ -1,3 +1,4 @@
+Thank to  zghafoori   
 # Deep-Multi-Sphere-SVDD
 
 This repository provides the implementation of "Deep Multi-sphere Support Vector Data Description” SIAM International Conference on Data Mining (SDM20). If you use our work, please also cite our paper.
